@@ -1,6 +1,6 @@
 {
-  "name": "BlankProcess",
-  "description": "Blank Process",
+  "name": "Sample Usecases",
+  "description": "Sample Usecases",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
