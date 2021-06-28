@@ -1,0 +1,19 @@
+1)/Welcome/ -> Regular expression
+2)\g -> flags -> global 
+3)\w -> words
+4)\W  -> non words
+5)\S  -> Space
+6)\w{4}
+7)\w{4,6}
+
+symbols
+
+8)+
+9)?
+10)*
+11)\.
+
+upper or lower case
+12)(we|We)
+13)(w|W)\w{6}
+
