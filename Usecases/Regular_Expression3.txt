@@ -1,0 +1,5 @@
+1)look Behind - (?<= The value is ).*
+
+2)look ahead - .*(?= is the value)
+
+(?<=The[v|V]alue is).*
