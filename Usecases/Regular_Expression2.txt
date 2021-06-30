@@ -1,0 +1,26 @@
+1)Digital Identification
+2)capture grouping
+3)followed by
+4)caret symbol ^ -> Beginning of the sentence
+5)Dollar symbol $ -> End of the statement
+
+Digital identification
+1)\d -> digits
+mention a number use {} curly braces
+\d{9}
+
+Capture grouping
+2)e{2,3}
+wherever there 2 or 3 eeee
+eg:streeet
+
+9{2}\8
+\ followedby
+
+3)^The payment - beginning of the statement
+
+flag -> global or multiline
+
+4)$ - end of the statement 
+
+\.$
